@@ -25,8 +25,8 @@
 // double 双精度浮点型
 int main()
 {
-    // sizeof() 运算符就是用来计算数据类型或变量的内存大小（字节）
-    // %zu 是用来专门替换 sizeof() 运算符得到的结果
+    // sizeof 单目操作符就是用来计算数据类型或变量的内存大小（字节）
+    // %zu 是用来专门替换 sizeof 单目操作符得到的结果
     printf("%zu\n", sizeof(char)); // 1 byte
     printf("%zu\n", sizeof(short)); // 2 byte
     printf("%zu\n", sizeof(int)); // 4 byte
