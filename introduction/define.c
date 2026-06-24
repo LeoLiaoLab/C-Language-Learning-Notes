@@ -2,7 +2,7 @@
  * @file #define.c
  * @author leoliao
  * @date 2026-06-23
- * @brief #define 定义常量和宏
+ * @brief 预处理指令 #define 定义常量和宏
  */
 
 #include <stdio.h>
